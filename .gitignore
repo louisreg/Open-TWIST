@@ -1,0 +1,76 @@
+# ============================================
+# OS files
+# ============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+.eggs/
+build/
+dist/
+venv/
+.env/
+.envrc
+*.log
+
+
+# ============================================
+# KiCad files
+# ============================================
+# Temporary and backup files
+*.bak
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-backups/
+*-cache.lib
+*-rescue.lib
+*.net
+*.xml
+*.dcm
+*.zip
+*.tmp
+*.wrl
+*.3dshapes/
+
+# KiCad autosave and recovery
+autosave-*/
+fp-info-cache
+sym-lib-table-bak
+eeschema-autosave-*
+pcbnew-autosave-*
+
+# ============================================
+# IDEs / Editors
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ============================================
+# Misc / Temporary
+# ============================================
+*~
+*.bak
+*.tmp
+*.old
+*.orig
+
+# ============================================
+# Logs / Results / Docs
+# ============================================
+results/
+logs/
+outputs/
+tests/tmp/
+docs/_build/

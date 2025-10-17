@@ -1,0 +1,64 @@
+<mxfile host="Electron" modified="2024-01-29T10:37:03.070Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.16 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="S-wgK8dpHM_6sw0y3rXb" version="22.1.16" type="device">
+  <diagram name="Page-1" id="MPC9-Ldg5Cd0byUVH7-v">
+    <mxGraphModel dx="954" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--1" value="FPGA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="196.85" height="157.48" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--2" value="DC/DC 5V" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="791.58" y="390" width="98.425" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--3" value="DC/DC HV" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="790" y="510" width="98.425" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--4" value="DC/DC LV" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="880" y="510" width="98.425" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--5" value="DC/DC Others" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="880.79" y="390" width="98.425" height="78.74" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--6" value="DB1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="157.48" height="157.48" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--7" value="DB2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="562.52" y="520" width="157.48" height="157.48" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--8" value="RJ50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408.74" y="700" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--9" value="RJ50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="611.26" y="700" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--10" value="Triggers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="627.48" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--11" value="Coax1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="690" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--12" value="Coax2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="690" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--13" value="Coax3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="690" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--14" value="Coax4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="690" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--15" value="USB3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428.41999999999996" y="10" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--16" value="USB Interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--17" value="DAC_STIM_A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="157.48" height="157.48" as="geometry" />
+        </mxCell>
+        <mxCell id="wcef2OCL90Vy4TLXHTJ--18" value="DAC_STIM_B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="157.48" height="157.48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

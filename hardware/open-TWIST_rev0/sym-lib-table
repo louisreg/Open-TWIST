@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TWIST_V2_lib")(type "KiCad")(uri "${KIPRJMOD}/TWIST_V2_lib.kicad_sym")(options "")(descr ""))
+)
