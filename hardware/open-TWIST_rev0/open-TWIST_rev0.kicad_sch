@@ -4124,7 +4124,7 @@
 			)
 		)
 		(instances
-			(project "TWIST_V2"
+			(project "open-TWIST_rev0"
 				(path "/e33fddd6-be85-4cf9-a6aa-44cdd8b2669a"
 					(page "10")
 				)
@@ -4345,8 +4345,18 @@
 				(justify right)
 			)
 		)
+		(pin "FT601_BE1" input
+			(at 80.01 215.9 180)
+			(uuid "a5e971b9-3ca1-4640-8510-4977edc61102")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
-			(project "TWIST_V2"
+			(project "open-TWIST_rev0"
 				(path "/e33fddd6-be85-4cf9-a6aa-44cdd8b2669a"
 					(page "22")
 				)
@@ -4407,7 +4417,7 @@
 			)
 		)
 		(instances
-			(project "TWIST_V2"
+			(project "open-TWIST_rev0"
 				(path "/e33fddd6-be85-4cf9-a6aa-44cdd8b2669a"
 					(page "23")
 				)
@@ -4519,7 +4529,7 @@
 			)
 		)
 		(instances
-			(project "TWIST_V2"
+			(project "open-TWIST_rev0"
 				(path "/e33fddd6-be85-4cf9-a6aa-44cdd8b2669a"
 					(page "2")
 				)
@@ -4580,7 +4590,7 @@
 			)
 		)
 		(instances
-			(project "TWIST_V2"
+			(project "open-TWIST_rev0"
 				(path "/e33fddd6-be85-4cf9-a6aa-44cdd8b2669a"
 					(page "24")
 				)
@@ -4762,7 +4772,7 @@
 			)
 		)
 		(instances
-			(project "TWIST_V2"
+			(project "open-TWIST_rev0"
 				(path "/e33fddd6-be85-4cf9-a6aa-44cdd8b2669a"
 					(page "6")
 				)
@@ -4974,7 +4984,7 @@
 			)
 		)
 		(instances
-			(project "TWIST_V2"
+			(project "open-TWIST_rev0"
 				(path "/e33fddd6-be85-4cf9-a6aa-44cdd8b2669a"
 					(page "3")
 				)

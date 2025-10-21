@@ -6422,6 +6422,17 @@
 		)
 		(uuid "acb286d9-35f1-40dc-ac73-1f59e45d6e39")
 	)
+	(text "why????"
+		(exclude_from_sim no)
+		(at 346.202 64.262 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+			(justify left bottom)
+		)
+		(uuid "b791f479-5c6f-4ff4-b58c-75bb8ef1aee1")
+	)
 	(text "Fs = 2.2MHz"
 		(exclude_from_sim no)
 		(at 33.02 80.01 0)
@@ -13394,7 +13405,7 @@
 			)
 		)
 	)
-	(global_label "SYNC_DC_5VD"
+	(global_label "SYNC_DC_3V3"
 		(shape output)
 		(at 381 151.13 0)
 		(fields_autoplaced yes)
@@ -13406,7 +13417,7 @@
 		)
 		(uuid "a1d2fef6-abd5-4fb5-9a67-31c9f1984402")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 396.9271 151.13 0)
+			(at 396.8666 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13460,7 +13471,7 @@
 			)
 		)
 	)
-	(global_label "SYNC_DC_5VD"
+	(global_label "SYNC_DC_3V3"
 		(shape input)
 		(at 308.61 100.33 180)
 		(fields_autoplaced yes)
@@ -13472,7 +13483,7 @@
 		)
 		(uuid "aac16c05-81e9-4883-8ddf-f6e26c74673d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 292.6829 100.33 0)
+			(at 292.7434 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
