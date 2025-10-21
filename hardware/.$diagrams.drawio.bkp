@@ -1,11 +1,11 @@
-<mxfile host="Electron" modified="2025-10-21T19:24:40.068Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="NYu03w9iQhc0thQ4NylW" version="24.5.3" type="device" pages="5">
+<mxfile host="Electron" modified="2025-10-21T20:04:13.356Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="Zffw0239KzgSSUr0NR0q" version="24.5.3" type="device" pages="5">
   <diagram name="main" id="MPC9-Ldg5Cd0byUVH7-v">
     <mxGraphModel dx="1340" dy="876" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_FqJr858rzNhprBOu2zm-37" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeWidth=3;fillColor=#eeeeee;strokeColor=#36393d;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="840" height="640" as="geometry" />
+          <mxGeometry x="50" y="180" width="830" height="600" as="geometry" />
         </mxCell>
         <mxCell id="_FqJr858rzNhprBOu2zm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;fontStyle=1" edge="1" parent="1" source="Rsaf6nxSCyi9oci43reU-13" target="Rsaf6nxSCyi9oci43reU-32">
           <mxGeometry relative="1" as="geometry">
@@ -256,7 +256,7 @@
         <mxCell id="_FqJr858rzNhprBOu2zm-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;startArrow=block;startFill=1;" edge="1" parent="1" source="_FqJr858rzNhprBOu2zm-34" target="_FqJr858rzNhprBOu2zm-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_FqJr858rzNhprBOu2zm-34" value="USB type-C" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="_FqJr858rzNhprBOu2zm-34" value="USB Interface" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="380" y="280" width="80" height="40" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-# Open-TWIST 🧠  
+# Open-TWIST  
 **An open-source and open-hardware benchtop neurostimulator offering precise, programmable, and arbitrary waveform generation for neuroscience research.**
 
 
@@ -12,7 +12,7 @@ open-TWIST is currently **experimental, untested, and subject to significant cha
 > Use at your own risk and ensure proper electrical safety isolation at all times.
 
 
-## 🧩 Presentation
+## Presentation
 
 **open-TWIST** aims to provide an **open-hardware, open-source benchtop neurostimulator** usable in **neural engineering research contexts**.  
 It enables the generation of **multichannel neurostimulation patterns** with **arbitrary waveform shapes**, supporting a wide range of experimental paradigms.
